@@ -24,18 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manampitiana&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manampitiana&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Portfolio
 
 🔗 https://portfolio-dev-man.vercel.app
