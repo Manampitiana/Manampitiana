@@ -1,17 +1,22 @@
-# 👋 Hi, I'm Ravaka (ManDev)
+<h1 align="center">Hi 👋, I'm Manampitiana (ManDev)</h1>
 
-🚀 Full Stack Developer  
-💻 Laravel • React • JavaScript • PHP  
-🌍 Based in Madagascar  
+<p align="center">
+Full Stack Developer • Laravel • React • JavaScript
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Building+Modern+Web+Applications" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **modern web applications**
-- 🌱 Learning **advanced React & scalable backend architecture**
-- 💬 Ask me about **Laravel, React, APIs, and Fullstack development**
-- ⚡ Passionate about **clean UI & performant applications**
+- 💻 Full Stack Developer from **Madagascar**
+- ⚡ Specialized in **Laravel & React**
+- 🌱 Currently learning **Advanced Web Development**
+- 🔗 Portfolio:  
+  https://portfolio-dev-man.vercel.app
 
 ---
 
@@ -25,25 +30,35 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manampitiana&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manampitiana&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manampitiana&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 GitHub Trophies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manampitiana&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Manampitiana&theme=darkhub" />
+</p>
 
 ---
 
-## 🌐 Portfolio
+## 👁 Profile Views
 
-🔗 https://portfolio-dev-man.vercel.app
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Manampitiana&color=blue" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-📧 manampitianatsiriniaina@gmail.com  
+📧 manampitianatsiriniaina@gmail.com
 
 ---
 
