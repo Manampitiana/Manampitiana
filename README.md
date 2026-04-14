@@ -32,9 +32,9 @@ Full Stack Developer • Laravel • React • JavaScript
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manampitiana&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Manampitiana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manampitiana&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manampitiana&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -43,7 +43,7 @@ Full Stack Developer • Laravel • React • JavaScript
 ## 🔥 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manampitiana&theme=darkhub" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manampitiana&theme=onedark" />
 </p>
 
 ---
