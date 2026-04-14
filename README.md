@@ -1,26 +1,37 @@
-# Hi 👋 I'm Ravaka (ManDev)
+# 👋 Hi, I'm Ravaka (ManDev)
 
-💻 Full Stack Developer  
-⚡ Specialized in Laravel & React  
+🚀 Full Stack Developer  
+💻 Laravel • React • JavaScript • PHP  
+🌍 Based in Madagascar  
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Web Applications**
-- 🌱 I’m learning **Advanced React & Laravel**
-- 👨‍💻 All of my projects are available on GitHub
-- 🌍 From **Madagascar**
+- 🔭 Currently building **modern web applications**
+- 🌱 Learning **advanced React & scalable backend architecture**
+- 💬 Ask me about **Laravel, React, APIs, and Fullstack development**
+- ⚡ Passionate about **clean UI & performant applications**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,react,js,php,mysql,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Ravaka GitHub stats](https://github-readme-stats.vercel.app/api?username=Manampitiana&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manampitiana&layout=compact&theme=tokyonight)
 
 ---
 
@@ -30,4 +41,10 @@
 
 ---
 
-⭐ Don't forget to follow me!
+## 📫 Contact
+
+📧 manampitianatsiriniaina@gmail.com  
+
+---
+
+⭐ If you like my projects, consider **following me on GitHub**.
